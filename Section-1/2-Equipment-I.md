@@ -63,7 +63,35 @@
 
 ## Scuba Kit
 
+1. What four equipment systems combine to make my scuba kit (scuba unit), and what is the purpose of each?
+   - BCD
+   - Regulator
+   - Cylinder
+   - Weight system
+2. What should I consider when choosing my scuba kit?
+   - integrated packages versus piecing together individual components.
+   - who will maintain the equipment. most shops service the brands they sell.
+
 ## BCD – Buoyancy Control Device
+
+1. What five components make up a BCD, and what does each do?
+   - **Inflatable bladder**: This is a very durable bag that you inflate or deflate to change your buoyancy.
+   - **Cylinder band and harness/jacket**: The bladder integrates with an adjustable harness that holds the cylinder on your back.
+   - **LPI (low pressure inflator) mechanism**: Usually at the end of a large-diameter hose, the LPI inflates the bladder with air from your cylinder, via the regulator, when you press a button. Another button allows you to deflate the bladder, or inflate it orally.
+   - **Overpressure/quick exhaust valves**: To prevent rupturing the bladder due to overfilling, BCDs have one or more overpressure valves that automatically vent if the BCD is too full.
+   - **Weight system** – Many BCDs have special weight pockets that you can release and drop in an emergency.
+2. What considerations and options do I have when choosing a BCD?
+   - Buoyancy capacity
+   - Pockets and D-rings
+   - Shoulder quick release
+   - Colors and style
+3. How do I prepare my BCD for use?
+   - 1. put it on
+   - 2. fully inflate it to be sure it doesn't restrict breathing
+   - 3. Attach whistle near the low pressure inflator
+4. What two special maintenance considerations do BCDs have?
+   - rinse the inside of the bladder with fresh water as well as the outside.
+   - store most BCDs partially inflated. This helps keep the bladder from sticking together inside.
 
 ## Regulators
 
