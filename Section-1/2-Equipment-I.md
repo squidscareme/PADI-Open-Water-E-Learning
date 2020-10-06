@@ -32,7 +32,34 @@
 
 ## Snorkels
 
+1. Why do I need a snorkel?
+   - Snorkels conserve your air supply when you need to breathe with your face in the water.
+2. What features should I consider when choosing a snorkel?
+   - **Flexible lower portion** – Allows the snorkel mouthpiece to drop out of the way when not in use.
+   - **Self-drain valve** – Makes it easier to blow water out of the snorkel.
+   - **Splash guard** – Reduces the amount of water than can splash in during use.
+   - **Color** – You can match your other gear, though some divers like a bright color that’s easy to see.
+3. How do I prepare my snorkel for diving?
+   - Snorkel goes on the left side of your noggin. Adjust it so that with the mouthpiece in, the tip is over the crown of your head
+
 ## Fins
+
+1. Why do I need fins?
+   - Fins provide a large surface area for your powerful leg muscles to push against so you move efficiently through water.
+2. What are the two basic fin styles?
+   - adjustable strap
+   - full-foot
+3. What features should I consider when choosing fins?
+   - fit
+   - blade size
+   - Optional features:
+     - Material – Different materials affect performance, and make fins heavier or lighter.
+     - Split fins – Some divers prefer the kicking characteristics of fins that have a split down the blade center.
+     - Vents – Some fins let water pass through in key areas to assist performance.
+     - Quick-release straps – Many adjustable fins have quick release buckles that make them easier to remove.
+     - Spring straps – For adjustable fins, once you get the right size, spring straps “auto adjust” for a proper fit every time and are highly unlikely to wear out.
+4. How do I prepare my fins for diving?
+   - Adjust the strap on adjustable fins for a comfortable fit with your wet suit boots on.
 
 ## Scuba Kit
 
