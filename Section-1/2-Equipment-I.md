@@ -95,6 +95,68 @@
 
 ## Regulators
 
+1. What five components make up a regulator, and what does each do?
+   - first stage
+   - second stage
+   - alternate air source
+   - low-pressure inflator hose
+   - SPG/computer
+2. What is the most important consideration in choosing a regulator? What considerations and options do I have when choosing a regulator?
+   - ease of breathing
+3. What are my considerations and options when choosing an alternate air source?
+   - simplicity versus independence
+4. What are my considerations and options when choosing an SPG?
+   - wireless or connected to the air supply
+5. How do I prepare my regulator for use?
+   - get a pro to attach all the parts for you
+6. Where do I place or secure each regulator component when diving? Why is this important?
+   - primary second stage goes over right shoulder
+   - alternate air supply goes in the triangle, attached by quick release
+   - spg with a hose usually routes under left arm. don't let it dangle.
+7. What three special maintenance considerations do regulators have?
+   - rinse it with fresh water with the first stage dust cap in place
+
 ## Cylinders
 
+1. What two components make up a scuba cylinder? What does the burst disk do?
+   - cylinder and valve
+   - The burst disk is a safety device that relieves accidental overpressure by rupturing and releasing the air well before the cylinder would fail
+2. What considerations and options do I have when choosing cylinders and valves?
+   - material (steel or aluminum)
+   - size/capacity
+   - Yoke or DIN
+   - Reserve or non-reserve valve
+3. What do the markings on a cylinder tell me?
+   - cylinder alloy
+   - serial number
+   - working pressure
+   - manufacturer's identification
+   - manufacture date
+   - test pressure
+   - hydrostatic test date
+4. What three safety precautions for handling scuba cylinders should I follow?
+   - Don’t leave a cylinder standing unattended
+   - Secure cylinders for transportation
+   - Keep cylinders secured on boats
+5. What six special maintenance considerations do cylinders have?
+   - Have your cylinder pressure tested at required intervals
+   - Have it visually inspected annually. Scuba cylinders are drained, opened and inspected internally for corrosion or other contamination/damage
+   - Close and open the valve gently
+   - To prevent moisture from entering a cylinder, never completely empty it
+   - Store the cylinder in a standing position in a safe place where it won’t get knocked over
+   - Keep your cylinder out of high heat
+6. Where do I get scuba cylinders filled? Why?
+   - Get your cylinder filled only at a reputable scuba air station.Scuba air must be specially filtered, and filled by compressors designed specifically for breathing air.
+
 ## Weight Systems
+
+1. What is the most important feature in my weight system?
+   - quick release that enables you, in an emergency, to drop enough weight to float even with an un-inflated BCD
+2. In an emergency, is it necessary to drop all my weight?
+   - when wearing a wetsuit it should only be necessary to drop some of the weight to float, and in a just a plain bathing suit then you will need to drop all your weight
+3. What is trim? Why is it important?
+   - trim is the correct distribution of weight. desired trim is a natural horizontal swimming position with your feet parallel to the bottom or slightly elevated
+4. Why might I use more than one weight system?
+   - to help get good trim
+5. What are my considerations and options when choosing one or more weight systems?
+   - weight belt or bcd
