@@ -9,7 +9,7 @@
 3. What is the relationship between pressure, and the volume and density of air?
     - As pressure increases, air volume decreases and density decreases
 4. If I take a volume of air from one depth to another depth, how much will the volume and density change?
-    - Formula for air volume at depth relative to sea level pressure, where x is increase in depth by 10 meters: 
+    - Formula for air volume at depth relative to sea level pressure, where x is increase in depth by 10 meters:
         F(x) => 1/(1 + x)
     - Formula for air density at depth relative to sea level pressure, where x is increase in depth by 10 meters:
         F(x) => x + 1
